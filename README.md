@@ -1,8 +1,9 @@
-Submitted by:
+Submitted by: Abhinav Inavolu (ainavolu)
 
-Group Members: Siddhant Kejriwal (sidkej19@terpmail.umd.edu),
-               Varun Malarvasan (vmalar@terpmail.umd.edu),
-               Abhinav Inavolu (ainavolu@terpmail.umd.edu)
+Group Members: Siddhant Kejriwal (sidkej19),
+               Varun Malarvasan (vmalar),
+               Abhinav Inavolu (ainavolu),
+               Bhargav Sristy (bsristy)
 
 App Description: Allows user to fetch jokes based on category and store/view favorite
 
